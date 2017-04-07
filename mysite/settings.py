@@ -25,7 +25,7 @@ SECRET_KEY = '+nmg%d^0ld4v&7!$_0kqfv6kqn5zka)2_fl$m8(v*w5x95nitc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fcank.pythonanywhere.com']
 
 
 # Application definition
